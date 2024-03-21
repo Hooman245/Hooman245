@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning AI and python and ML
 - 💞️ I’m looking to collaborate on progamming and python
 - 📫 How to reach me email: hooman24597@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Hooman245/Hooman245 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
