@@ -1,4 +1,7 @@
-<img src='./TOW png.png'>
+<div align='center'>
+  <img src='./TOW png.png' width='400px'>
+</div>
+
 # 💫 About Me:
 Python Programmer & Inventor<br><br>I'm a passionate Python programmer with a knack for creative problem-solving and innovation. My expertise lies in prompt engineering, where I leverage the power of artificial intelligence tools to build innovative solutions. I enjoy exploring new technologies and pushing the boundaries of what's possible.<br><br>Let's create something amazing together!<br><br>How to reach me email: hooman24597@gmail.com
 
