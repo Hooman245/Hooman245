@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src='./TOW png.png' width='400px'>
+  <img src='./logo copy.png' width='400px'>
 </div>
 
 # 💫 About Me:
